@@ -11,3 +11,6 @@ Major workflow:
 4. Coulomb matrix fingerprint and Gaussian process
 5. Kernal optimization
 6. Find best feature for the ML model with discared unstable materials
+7. Obtained a well-trained model to predict stability
+
+Other properties training are ongoing ...
